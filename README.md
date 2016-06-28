@@ -1,6 +1,8 @@
 android-app
 ===========
 
+这个项目是从别处拷贝过来的，目的是使用git&github
+
 # **开源中国社区 Android 客户端项目简析** #
 
 *注：本文假设你已经有Android开发环境*
@@ -15,7 +17,7 @@ android-app
 
 下面将简单的解析下项目：
 
-## **一、项目的目录结构** ##
+## **一、项目的目录结构 ** ##
 > 根目录<br>
 > ├ src<br>
 > ├ libs<br>
@@ -32,7 +34,7 @@ src目录用于存放项目的包及java源码文件。
 > src<br>
 > ├ com.weibo.net<br>
 > ├ greendroid.widget<br>
-> ├ net.oschina.app<br>
+> ├ net.oschina.app<br>   
 > ├ net.oschina.app.adapter<br>
 > ├ net.oschina.app.api<br>
 > ├ net.oschina.app.bean<br>
